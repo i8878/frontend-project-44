@@ -12,3 +12,5 @@
 Запись процесса brain-gcd:
 [![asciicast](https://asciinema.org/a/o7WCCw1Vdzv0R9Z7.svg)](https://asciinema.org/a/o7WCCw1Vdzv0R9Z7)
 
+Запись процесса brain-progression:
+[![asciicast](https://asciinema.org/a/Gf4Ul9dihLMotvFl.svg)](https://asciinema.org/a/Gf4Ul9dihLMotvFl)

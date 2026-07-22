@@ -16,6 +16,9 @@ const gameHandler = (game) => {
                 case 'brainGcd':
                     console.log('Find the greatest common divisor of given numbers.')
                     break
+                case 'brainProgression':
+                    console.log('What number is missing in the progression?')
+                    break
                 default: break
             }
         }

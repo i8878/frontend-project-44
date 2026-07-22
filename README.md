@@ -14,3 +14,6 @@
 
 Запись процесса brain-progression:
 [![asciicast](https://asciinema.org/a/Gf4Ul9dihLMotvFl.svg)](https://asciinema.org/a/Gf4Ul9dihLMotvFl)
+
+Запись процесса brain-prime:
+[![asciicast](https://asciinema.org/a/Bz9bDmSFQhrs8xLG.svg)](https://asciinema.org/a/Bz9bDmSFQhrs8xLG)

@@ -19,6 +19,9 @@ const gameHandler = (game) => {
                 case 'brainProgression':
                     console.log('What number is missing in the progression?')
                     break
+                case 'brainPrime':
+                    console.log('Answer "yes" if given number is prime. Otherwise answer "no".')
+                    break
                 default: break
             }
         }

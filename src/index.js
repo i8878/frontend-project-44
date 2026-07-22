@@ -13,6 +13,9 @@ const gameHandler = (game) => {
                 case 'brainCalc':
                     console.log('What is the result of the expression?')
                     break
+                case 'brainGcd':
+                    console.log('Find the greatest common divisor of given numbers.')
+                    break
                 default: break
             }
         }

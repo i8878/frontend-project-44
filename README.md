@@ -9,3 +9,6 @@
 Запись процесса brain-calc:
 [![asciicast](https://asciinema.org/a/IqMuVd1E1OUCkgMd.svg)](https://asciinema.org/a/IqMuVd1E1OUCkgMd)
 
+Запись процесса brain-gcd:
+[![asciicast](https://asciinema.org/a/o7WCCw1Vdzv0R9Z7.svg)](https://asciinema.org/a/o7WCCw1Vdzv0R9Z7)
+

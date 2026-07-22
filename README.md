@@ -3,5 +3,9 @@
 [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=i8878_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=i8878_frontend-project-44)
 
 
-Запись процесса:
-https://asciinema.org/connect/ffde4d1a-3cb4-440f-8393-f8c6dd80c4bc
+Запись процесса brain-even:
+[![asciicast](https://asciinema.org/a/hGqjK0n5wE9aQ7eP.svg)](https://asciinema.org/a/hGqjK0n5wE9aQ7eP)
+
+Запись процесса brain-calc:
+[![asciicast](https://asciinema.org/a/IqMuVd1E1OUCkgMd.svg)](https://asciinema.org/a/IqMuVd1E1OUCkgMd)
+
